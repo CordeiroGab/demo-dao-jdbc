@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1fe1a5f-ebe0-4c95-beb4-ec4544358eb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/model/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/da.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -109,7 +110,7 @@
       <updated>1750105582432</updated>
       <workItem from="1750105583643" duration="156000" />
       <workItem from="1750106315957" duration="921000" />
-      <workItem from="1750107255420" duration="642000" />
+      <workItem from="1750107255420" duration="984000" />
     </task>
     <servers />
   </component>
