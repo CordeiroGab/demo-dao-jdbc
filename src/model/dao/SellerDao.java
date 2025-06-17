@@ -1,5 +1,6 @@
 package model.dao;
 
+import model.entity.Department;
 import model.entity.Seller;
 
 
@@ -12,4 +13,5 @@ public interface SellerDao {
     void deleteById (Seller id);
     Seller findById(Integer id);
     List<Seller> findAll();
+    List<Seller> findByDepartment(Department department);
 }
